@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>screen time, but for your keyboard.</b><br>
-  your keys have feelings. you've been hurting them.
+  your keys have feelings. you've been hurting them. 
 </p>
 
 <p align="center">
